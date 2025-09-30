@@ -74,3 +74,8 @@ The perceptron is trained on truth tables of:
 
 ### ⭐ If you like this project, don’t forget to give it a star on GitHub!
 
+---
+
+## 🙏 Acknowledgments
+This project was created as part of my learning journey.  
+Special thanks to **[CampusX YouTube Channel](https://www.youtube.com/@campusx-official)** 🎥, from where I learned the concepts and implementation of the perceptron algorithm.
